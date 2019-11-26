@@ -39,7 +39,7 @@ author_work_experiences:
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png # must change
+              - college_logo: knu.png # must change
                 college_name: KNU
                 college_url: https://www.kangwon.ac.kr/www/index.do
                 college_degree: Computer Engineer
