@@ -19,7 +19,7 @@ urls:
 
 author_logo: profile.png
 author: Kyeongwon Jang
-author_bio: Hi, My Name is Kyeongwon Jang. I love to Code and Design. devlopr-jekyll is a theme built for developers.  
+author_bio: Hi, My Name is Kyeongwon Jang. I love to Code. My interest thing 
 author_email: "indiaink10@gmail.com"
 author_location: Korea
 author_website_url: "https://indiaink10.github.io" # http://johndoe.com
@@ -50,47 +50,47 @@ author_project_details:
               - project_thumbnail: areaofshapecalculator.png
                 project_title: Area of ​​Shape Calculator
                 project_description: a Program to easily calculate area of shape ( Visual Basic )
-                project_url: https://programmingebooks.com
+                project_url: https://github.com/IndiaInk10/Project-assemble/tree/master/%EA%B3%84%EC%82%B0%EA%B8%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%8C%8C%EC%9D%BC%20%EB%B0%8F%20%EC%8B%A4%ED%96%89%20%ED%8C%8C%EC%9D%BC)
                 visibility: true
               - project_thumbnail: movieinformation.png
                 project_title: Movie Information
                 project_description: a Program to easily get movie information ( Visual Basic )
-                project_url: https://programmingebooks.com
+                project_url: https://github.com/IndiaInk10/Project-assemble/tree/master/%EC%98%81%ED%99%94%20%EC%98%88%EB%A7%A4(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%8C%8C%EC%9D%BC%20%EB%B0%8F%20%EC%8B%A4%ED%96%89%20%ED%8C%8C%EC%9D%BC)
                 visibility: true
               - project_thumbnail: palindrome.png
                 project_title: Palindrome
                 project_description: a Program to determine whether it is a palindrome ( C )
-                project_url: https://programmingebooks.com
+                project_url: https://github.com/IndiaInk10/Project-assemble/tree/master/Palindrome
                 visibility: true
               - project_thumbnail: maze.png
                 project_title: Maze
                 project_description: a Program to escape the maze ( C )
-                project_url: https://programmingebooks.com
+                project_url: https://github.com/IndiaInk10/Project-assemble/tree/master/Maze
                 visibility: true
               - project_thumbnail: polynomialcalculation.png
                 project_title: Polynomial calculation
                 project_description: a Program for calculating the sum of input polynomials ( C )
-                project_url: https://programmingebooks.com
+                project_url: https://github.com/IndiaInk10/Project-assemble/tree/master/Polynomial%20Calculate_UP
                 visibility: true
               - project_thumbnail: phonebook.png
                 project_title: Phonebook
                 project_description: Implement the currently used phone book app as a program ( C )
-                project_url: https://programmingebooks.com
+                project_url: https://github.com/IndiaInk10/Project-assemble/tree/master/PhoneBook_by_C
                 visibility: true         
               - project_thumbnail: VideoRental.png
                 project_title: VideoRental
                 project_description: Implement a video rental program with a database ( C )
-                project_url: https://programmingebooks.com
+                project_url: https://github.com/IndiaInk10/Project-assemble/tree/master/VideoRental_by_C
                 visibility: true
               - project_thumbnail: samcheokcultureandtourism.png
                 project_title: Samcheok Culture and Tourism
                 project_description: Samcheok Culture & Tourism Web Document using html tags ( HTML )
-                project_url: https://programmingebooks.com
+                project_url: https://github.com/IndiaInk10/Project-assemble/tree/master/Samcheok%20Culture%20and%20Tourism
                 visibility: true
               - project_thumbnail: similargoogle.png
                 project_title: Similar Google
                 project_description: Web documents made similar to Google search site using css and webforms ( HTML )
-                project_url: https://programmingebooks.com
+                project_url: https://github.com/IndiaInk10/Project-assemble/tree/master/Similar%20Google
                 visibility: true
                 
 
