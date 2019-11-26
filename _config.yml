@@ -47,16 +47,52 @@ author_education_details:
                 visibility: true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: programmingebooks.png
-                project_title: Programming Ebooks
-                project_description: A Platform to easily find and read programming books
+                project_thumbnail: Area of ​​Shape Calculator.png
+                project_title: Area of ​​Shape Calculator
+                project_description: a Program to easily calculate area of shape ( Visual Basic )
                 project_url: https://programmingebooks.com
                 visibility: true
+                project_thumbnail: Movie Information.png
+                project_title: Movie Information
+                project_description: a Program to easily get movie information ( Visual Basic )
+                project_url: https://programmingebooks.com
+                visibility: true
+                project_thumbnail: Palindrome.png
+                project_title: Palindrome
+                project_description: a Program to determine whether it is a palindrome ( C )
+                project_url: https://programmingebooks.com
+                visibility: true
+                project_thumbnail: Maze.png
+                project_title: Maze
+                project_description: a Program to escape the maze ( C )
+                project_url: https://programmingebooks.com
+                visibility: true
+                project_thumbnail: Polynomial calculation.png
+                project_title: Polynomial calculation
+                project_description: a Program for calculating the sum of input polynomials ( C )
+                project_url: https://programmingebooks.com
+                visibility: true
+                project_thumbnail: Phonebook.png
+                project_title: Phonebook
+                project_description: Implement the currently used phone book app as a program ( C )
+                project_url: https://programmingebooks.com
+                visibility: true         
+                project_thumbnail: VideoRental.png
+                project_title: VideoRental
+                project_description: Implement a video rental program with a database ( C )
+                project_url: https://programmingebooks.com
+                visibility: true
+                project_thumbnail: Samcheok Culture and Tourism.png
+                project_title: Samcheok Culture and Tourism
+                project_description: Samcheok Culture & Tourism Web Document using html tags ( HTML )
+                project_url: https://programmingebooks.com
+                visibility: true
+                project_thumbnail: Similar Google.png
+                project_title: Similar Google
+                project_description: Web documents made similar to Google search site using css and webforms ( HTML )
+                project_url: https://programmingebooks.com
+                visibility: true
+                
 
 # social links
 twitter_username: indiaink10
@@ -71,7 +107,7 @@ dribbble_username: indiaink10
 flickr_username: indiaink10
 
 #for comments using disqus
-disqus_shortname: sujay-kundu 
+disqus_shortname: indiaink10
 
 # wakatime username (coding activity)
 wakatime_username: indiaink10
@@ -88,7 +124,7 @@ permalink: pretty
 google_analytics: UA-46783401-10 
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: true
 
