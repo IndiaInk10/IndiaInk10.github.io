@@ -77,7 +77,7 @@ author_project_details:
                 project_description: Implement the currently used phone book app as a program ( C )
                 project_url: https://programmingebooks.com
                 visibility: true         
-              - project_thumbnail: videorental.png
+              - project_thumbnail: VideoRental.png
                 project_title: VideoRental
                 project_description: Implement a video rental program with a database ( C )
                 project_url: https://programmingebooks.com
