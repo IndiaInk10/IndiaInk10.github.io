@@ -47,47 +47,47 @@ author_education_details:
                 visibility: true
 
 author_project_details:
-                project_thumbnail: areaofshapecalculator.png
+              - project_thumbnail: areaofshapecalculator.png
                 project_title: Area of ​​Shape Calculator
                 project_description: a Program to easily calculate area of shape ( Visual Basic )
                 project_url: https://programmingebooks.com
                 visibility: true
-                project_thumbnail: movieinformation.png
+              - project_thumbnail: movieinformation.png
                 project_title: Movie Information
                 project_description: a Program to easily get movie information ( Visual Basic )
                 project_url: https://programmingebooks.com
                 visibility: true
-                project_thumbnail: palindrome.png
+              - project_thumbnail: palindrome.png
                 project_title: Palindrome
                 project_description: a Program to determine whether it is a palindrome ( C )
                 project_url: https://programmingebooks.com
                 visibility: true
-                project_thumbnail: maze.png
+              - project_thumbnail: maze.png
                 project_title: Maze
                 project_description: a Program to escape the maze ( C )
                 project_url: https://programmingebooks.com
                 visibility: true
-                project_thumbnail: polynomialcalculation.png
+              - project_thumbnail: polynomialcalculation.png
                 project_title: Polynomial calculation
                 project_description: a Program for calculating the sum of input polynomials ( C )
                 project_url: https://programmingebooks.com
                 visibility: true
-                project_thumbnail: phonebook.png
+              - project_thumbnail: phonebook.png
                 project_title: Phonebook
                 project_description: Implement the currently used phone book app as a program ( C )
                 project_url: https://programmingebooks.com
                 visibility: true         
-                project_thumbnail: videorental.png
+              - project_thumbnail: videorental.png
                 project_title: VideoRental
                 project_description: Implement a video rental program with a database ( C )
                 project_url: https://programmingebooks.com
                 visibility: true
-                project_thumbnail: samcheokcultureandtourism.png
+              - project_thumbnail: samcheokcultureandtourism.png
                 project_title: Samcheok Culture and Tourism
                 project_description: Samcheok Culture & Tourism Web Document using html tags ( HTML )
                 project_url: https://programmingebooks.com
                 visibility: true
-                project_thumbnail: similargoogle.png
+              - project_thumbnail: similargoogle.png
                 project_title: Similar Google
                 project_description: Web documents made similar to Google search site using css and webforms ( HTML )
                 project_url: https://programmingebooks.com
@@ -124,7 +124,7 @@ permalink: pretty
 google_analytics: UA-46783401-10 
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: true
 
