@@ -22,7 +22,7 @@ author: Kyeongwon Jang
 author_bio: Hi, My Name is Kyeongwon Jang. I love to Code and Design. devlopr-jekyll is a theme built for developers.  
 author_email: "indiaink10@gmail.com"
 author_location: Korea
-author_website_url: "" # http://johndoe.com
+author_website_url: "https://indiaink10.github.io" # http://johndoe.com
 
 author_work_experiences: 
             - company_name: Google
