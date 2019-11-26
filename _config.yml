@@ -9,14 +9,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: Blog
       url: /blog
-    - text: Shop
-      url : /shop/
     - text: About Me
       url: /about/
     - text: Contact Me
       url : /contact/
-    - text: Styleguide
-      url: /styleguide/
     
 
 # Edit these details 
